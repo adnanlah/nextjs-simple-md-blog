@@ -1,0 +1,1 @@
+export const WEBSITE_NAME = 'Next.js & Markdown blog'
